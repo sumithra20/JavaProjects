@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
 	<properties>
-		<maven.build.timestamp.format>yyyy-mm-dd_HH.mm.ss</maven.build.timestamp.format>
+		<maven.build.timestamp.format>yyyy-MMM-dd_HH.mm.ss</maven.build.timestamp.format>
 		</properties>
   <dependencies>
     <dependency>
